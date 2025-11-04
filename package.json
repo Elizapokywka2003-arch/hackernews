@@ -1,0 +1,35 @@
+{
+  "name": "nuxt-hn",
+  "private": true,
+  "packageManager": "pnpm@10.20.0",
+  "description": "Nuxt Hacker News",
+  "author": "Evan You <yyx990803@gmail.com>",
+  "contributors": [
+    {
+      "name": "Sebastien Chopin (@Atinux)"
+    },
+    {
+      "name": "Pooya Parsa (@pi0)"
+    },
+    {
+      "name": "Anthony Fu (@antfu)"
+    }
+  ],
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "^3.0.1",
+    "@nuxt/eslint": "^1.10.0",
+    "@nuxt/eslint-config": "^1.10.0",
+    "@nuxthub/core": "^0.9.0",
+    "@types/node": "^24.10.0",
+    "eslint": "^9.39.0",
+    "nuxt": "^4.2.0",
+    "postcss-nesting": "^13.0.2",
+    "typescript": "^5.9.3"
+  }
+}
