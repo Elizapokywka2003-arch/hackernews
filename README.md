@@ -60,3 +60,9 @@ MIT
 ## Credits
 
 This repository is originally ported from [vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0)
+
+--------------
+
+npm install: 
+curl -sL https://deb.nodesource.com/setup_9.x | sudo -E bash -
+apt instal npm
